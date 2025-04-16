@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13a19865-997c-44c4-81cb-8123df5eb6c7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="E:\JAVA\JavaWebTools\apache-maven-3.8.8" />
+        <option name="localRepository" value="E:\JAVA\JavaWebTools\apache-maven-3.8.8\mvn_repo" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="E:\JAVA\JavaWebTools\apache-maven-3.8.8\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2v86sRIxVRagUZVL1fm7AAF12Cy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.UploadFileTest.test1.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.reggie_take_out [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ReggieApplication.executor": "Debug",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/JAVA/wujunProjects/reggieProjects/reggie-takeout/reggie_taken_out",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.28735632",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JAVA\mavenProjects\reggie_take_out\src\main\java\com\itheima\reggie\service\impl" />
+      <recent name="E:\JAVA\mavenProjects\reggie_take_out\src\main\java\com\itheima\reggie\service" />
+      <recent name="E:\JAVA\mavenProjects\reggie_take_out\src\main\java\com\itheima\reggie\mapper" />
+      <recent name="E:\JAVA\mavenProjects\reggie_take_out\src\main\java\com\itheima\reggie\entity" />
+      <recent name="E:\JAVA\mavenProjects\reggie_take_out\src\main\java\com\itheima\reggie\controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ReggieApplication">
+    <configuration name="UploadFileTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.UploadFileTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.reggie.ReggieApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.reggie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReggieApplication" />
+        <item itemvalue="JUnit.UploadFileTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13a19865-997c-44c4-81cb-8123df5eb6c7" name="Changes" comment="" />
+      <created>1743514560478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743514560478</updated>
+      <workItem from="1743514563016" duration="872000" />
+      <workItem from="1743515452249" duration="701000" />
+      <workItem from="1743516160966" duration="320000" />
+      <workItem from="1743516709501" duration="2994000" />
+      <workItem from="1743523722429" duration="20000" />
+      <workItem from="1743558437442" duration="1569000" />
+      <workItem from="1743579092673" duration="3218000" />
+      <workItem from="1743582364492" duration="16479000" />
+      <workItem from="1743648912816" duration="5322000" />
+      <workItem from="1743658321656" duration="4180000" />
+      <workItem from="1743673971822" duration="10404000" />
+      <workItem from="1743737362651" duration="8824000" />
+      <workItem from="1743776113287" duration="975000" />
+      <workItem from="1743833665124" duration="14123000" />
+      <workItem from="1743857767490" duration="4907000" />
+      <workItem from="1743909883326" duration="3714000" />
+      <workItem from="1743918056648" duration="13790000" />
+      <workItem from="1743990486981" duration="1574000" />
+      <workItem from="1744018708269" duration="2476000" />
+      <workItem from="1744083063936" duration="3635000" />
+      <workItem from="1744086751248" duration="1361000" />
+      <workItem from="1744094133895" duration="11021000" />
+      <workItem from="1744118641064" duration="4133000" />
+      <workItem from="1744162520628" duration="2215000" />
+      <workItem from="1744187007807" duration="598000" />
+      <workItem from="1744199566602" duration="16000" />
+      <workItem from="1744207334169" duration="583000" />
+      <workItem from="1744209810471" duration="208000" />
+      <workItem from="1744210299062" duration="101000" />
+      <workItem from="1744255462747" duration="455000" />
+      <workItem from="1744255926401" duration="492000" />
+      <workItem from="1744256625599" duration="391000" />
+      <workItem from="1744257103618" duration="42000" />
+      <workItem from="1744257616069" duration="88000" />
+      <workItem from="1744257722330" duration="12000" />
+      <workItem from="1744344869633" duration="1602000" />
+      <workItem from="1744719278141" duration="3439000" />
+      <workItem from="1744732520103" duration="52000" />
+      <workItem from="1744769993995" duration="713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/service/impl/SetmealServiceImpl.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/service/impl/OrderServiceImpl.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.itheima.reggie.dto.DishDto" memberName="flavors" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="metaObject.objectWrapperFactory" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
