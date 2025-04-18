@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13a19865-997c-44c4-81cb-8123df5eb6c7" name="Changes" comment="加入 redis，缓存验证码和菜品">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/DishController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/DishController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/DishController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/DishController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/ReggieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/ReggieApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/common/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/common/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/SetmealController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/SetmealController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/SetmealController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/SetmealController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +51,14 @@
   <component name="MavenRunner">
     <option name="jreName" value="17" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2v86sRIxVRagUZVL1fm7AAF12Cy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -79,7 +86,7 @@
     &quot;git-widget-placeholder&quot;: &quot;v1.0&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/JAVA/wujunProjects/reggieProjects/reggie-takeout/reggie_taken_out&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JAVA/wujunProjects/reggieProjects/5 瑞吉外卖项目优化篇/资料/day01/cache_demo&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -251,6 +258,8 @@
       <workItem from="1744881235767" duration="3350000" />
       <workItem from="1744893927753" duration="10474000" />
       <workItem from="1744954216315" duration="367000" />
+      <workItem from="1744981167082" duration="615000" />
+      <workItem from="1744984307445" duration="1230000" />
     </task>
     <task id="LOCAL-00001" summary="加入 redis，缓存验证码和菜品">
       <option name="closed" value="true" />
@@ -279,7 +288,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="加入 redis，缓存验证码和菜品" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入 redis，缓存验证码和菜品" />
+    <MESSAGE value="使用 redis 缓存邮箱验证码、菜品数据" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用 redis 缓存邮箱验证码、菜品数据" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
